@@ -12,13 +12,10 @@ I'm a passionate developer who loves coding and creating innovative solutions. I
 - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org)
 - 💬 Ask me about anything, I am happy to help
 
-## 🛠️ Skills
+| 🛠️ **Skills** | 🔥 **Streak Stats** |
+|--------------|-------------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=placidodiaz&layout=compact) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=placidodiaz) |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=placidodiaz&layout=compact)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=placidodiaz)
 
 ## 📫 How to Reach Me
 
