@@ -1,5 +1,27 @@
-<h1 align="center">Hi 👋, I'm Plácido</h1>
+<h1 align="center">Hi there, I'm Plácido 👋</h1>
+<h2 align="center">
+  
+[Check out my Portfolio](https://placidodiaz.github.io) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=placidodiaz&show_icons=true&locale=en&layout=compact" alt="placidodiaz" /></p>
+</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=placidodiaz&" alt="placidodiaz" /></p>
+## 🚀 About Me
+I'm a passionate developer who loves coding and creating innovative solutions. I enjoy exploring new technologies and leveraging them to build cool stuff. 
+
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org)
+- 💬 Ask me about anything, I am happy to help
+
+## 🛠️ Skills
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=placidodiaz&layout=compact)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=placidodiaz)
+
+## 📫 How to Reach Me
+
+- [Email](mailto:placidodiazgarrido@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/placidodiaz/)
+
