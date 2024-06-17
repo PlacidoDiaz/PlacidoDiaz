@@ -1,24 +1,31 @@
-<h1 align="center">Hi there, I'm Plácido 👋</h1>
-<h2 align="center">
-  
-[Check out my Portfolio](https://placidodiaz.github.io) 
+## Hola! Mi nombre es Plácido! Bienvenido a mi github!
 
-</h2>
+<p align="center">
+  <a href="https://placidodiaz.github.io">Visita mi Portfolio</a>
+</p>
 
-## 🚀 About Me
-I'm a passionate developer who loves coding and creating innovative solutions. I enjoy exploring new technologies and leveraging them to build cool stuff. 
+## 🚀 Sobre Mí
 
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org)
-- 💬 Ask me about anything, I am happy to help
+Soy un apasionado desarrollador con experiencia en desarrollo web full stack y ciberseguridad. Disfruto creando soluciones innovadoras y explorando nuevas tecnologías para resolver problemas complejos.
 
-| 🛠️ **Skills** | 🔥 **Streak Stats** |
-|--------------|-------------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=placidodiaz&layout=compact) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=placidodiaz) |
+- 🔭 Actualmente estoy trabajando en proyectos personales y explorando tecnologías emergentes.
+- 🌱 Estoy aprendiendo continuamente, especialmente interesado en la seguridad informática.
+- 💬 No dudes en contactarme para hablar sobre tecnología, desarrollo de software o colaboraciones interesantes.
 
+## 🛠️ Habilidades
 
-## 📫 How to Reach Me
+- Desarrollo Web: Angular, Node.js, Laravel, Symfony
+- Lenguajes: Java, Python, JavaScript, PHP, HTML, CSS
+- Ciberseguridad: Hacking Ético, Gestión de incidentes, análisis forense digital, prevención y concienciación
+- Herramientas: Elasticsearch, Kibana, Snort, Nessus, Selenium
 
-- [Email](mailto:placidodiazgarrido@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/placidodiaz/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=placidodiaz&layout=compact&theme=dark" alt="Lenguajes más usados">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=placidodiaz&theme=dark" alt="GitHub Streak">
+</p>
 
+## 📫 Cómo Contactarme
+
+- Email: [placidodiazgarrido@gmail.com](mailto:placidodiazgarrido@gmail.com)
+- LinkedIn: [Plácido Díaz](https://www.linkedin.com/in/placidodiaz/)
