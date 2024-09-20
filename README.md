@@ -1,9 +1,5 @@
 ## Hola! Mi nombre es Plácido! Bienvenido a mi github!
 
-<p align="center">
-  <a href="https://placidodiaz.github.io">Visita mi Portfolio</a>
-</p>
-
 ## 🚀 Sobre Mí
 
 Soy un apasionado desarrollador con experiencia en desarrollo web full stack y ciberseguridad. Disfruto creando soluciones innovadoras y explorando nuevas tecnologías para resolver problemas complejos.
@@ -27,5 +23,4 @@ Soy un apasionado desarrollador con experiencia en desarrollo web full stack y c
 
 ## 📫 Cómo Contactarme
 
-- Email: [placidodiazgarrido@gmail.com](mailto:placidodiazgarrido@gmail.com)
 - LinkedIn: [Plácido Díaz](https://www.linkedin.com/in/placidodiaz/)
